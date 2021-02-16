@@ -1,0 +1,76 @@
+h1 {
+    font-size: 20px;
+    font-style: bold;  
+}
+
+section {
+    height:200px;
+    width: 60%;
+}
+
+/* .company {
+    
+    color: lightseagreen;
+    line-height: 200px
+} */
+
+body {
+    background-color: lightgray;
+}
+
+.cover-photo {
+    object-fit: cover;
+    height: 600px;
+    width: 100%;
+}
+
+#company {
+    color: white;
+    background-color: lightblue;
+}
+
+#careers {
+    color: white;
+    background-color: lightblue;
+}
+
+#media-impact {
+    color: white;
+    background-color: lightblue;
+}
+
+footer {
+    font-size: 12px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+footer h2{
+    font-size: small;
+}
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: blue;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
