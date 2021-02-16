@@ -26,17 +26,33 @@ body {
 
 #company {
     color: white;
-    background-color: lightblue;
+    background-color: turquoise;
+}
+
+#company-section-img {
+    height: 200px;
+    float: left;
+    
+}
+
+#careers-section-img {
+    height: 200px;
+    float: left;
+}
+
+#media-section-img {
+    height: 200px;
+    float: left;
 }
 
 #careers {
     color: white;
-    background-color: lightblue;
+    background-color: turquoise;
 }
 
 #media-impact {
     color: white;
-    background-color: lightblue;
+    background-color:turquoise;
 }
 
 footer {
@@ -65,7 +81,7 @@ footer h2{
   
   /* Change the color of links on hover */
   .topnav a:hover {
-    background-color: blue;
+    background-color: turquoise;
     color: black;
   }
   
@@ -73,4 +89,12 @@ footer h2{
   .topnav a.active {
     background-color: #4CAF50;
     color: white;
+  }
+
+  footer {
+    text-align: center;
+    padding: 3px;
+    color: black;
+    font-family: bold;
+    font-size: 15px;
   }
