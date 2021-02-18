@@ -1,100 +1,97 @@
-h1 {
-    font-size: 20px;
-    font-style: bold;  
-}
-
 section {
-    height:200px;
-    width: 60%;
+  height: 200px;
+  width: 80%;
 }
-
-/* .company {
-    
-    color: lightseagreen;
-    line-height: 200px
-} */
 
 body {
-    background-color: lightgray;
+  background-color: lightgray;
 }
 
 .cover-photo {
-    object-fit: cover;
-    height: 600px;
-    width: 100%;
+  object-fit: cover;
+  height: 600px;
+  width: 100%;
 }
 
 #company {
-    color: white;
-    background-color: turquoise;
-}
-
-#company-section-img {
-    height: 200px;
-    float: left;
-    
-}
-
-#careers-section-img {
-    height: 200px;
-    float: left;
-}
-
-#media-section-img {
-    height: 200px;
-    float: left;
+  color: white;
+  background-color: turquoise;
+  text-align: left;
 }
 
 #careers {
-    color: white;
-    background-color: turquoise;
+  color: white;
+  background-color: turquoise;
+  text-align: left;
 }
 
 #media-impact {
-    color: white;
-    background-color:turquoise;
+  color: white;
+  background-color: turquoise;
+  text-align: left;
 }
 
-footer {
-    font-size: 12px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+#company-section-img {
+  padding: 10px;
+  height: 175px;
+  float: left;
 }
 
-footer h2{
-    font-size: small;
+#careers-section-img {
+  padding: 10px;
+  height: 170px;
+  float: right;
+}
+
+#media-section-img {
+  padding: 10px;
+  height: 170px;
+  float: left;
+}
+
+.sidenav {
+  background-color: turquoise;
+  color: white;
+  text-align: center;
+  float: right;
+  width: 200px;
+  height: 645px;
 }
 
 .topnav {
-    background-color: #333;
-    overflow: hidden;
-  }
-  
-  /* Style the links inside the navigation bar */
-  .topnav a {
-    float: right;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  }
-  
-  /* Change the color of links on hover */
-  .topnav a:hover {
-    background-color: turquoise;
-    color: black;
-  }
-  
-  /* Add a color to the active/current link */
-  .topnav a.active {
-    background-color: #4CAF50;
-    color: white;
-  }
+  background-color: #333;
+  overflow: hidden;
+}
 
-  footer {
-    text-align: center;
-    padding: 3px;
-    color: black;
-    font-family: bold;
-    font-size: 15px;
-  }
+.topnav h1 {
+  float: left;
+  font-size: 20px;
+  color: white;
+}
+
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: turquoise;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: turquoise;
+  color: white;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  color: black;
+  font-family: bold;
+  font-size: small;
+}
