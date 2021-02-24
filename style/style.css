@@ -7,7 +7,6 @@ body {
 }
 
 /* Section for updating and modifying the navbar */
-
 .topnav {
   background-color: #333;
   overflow: hidden;
@@ -65,7 +64,6 @@ section {
 }
 
 /* Section information regarding company information */
-
 #company {
   color: white;
   background-color: turquoise;
@@ -83,8 +81,8 @@ section {
   background-color: turquoise;
   text-align: left;
 }
-/* Section applying images to reflect the company. */
 
+/* Section applying images to reflect the company. */
 #company-section-img {
   padding: 10px;
   height: 175px;

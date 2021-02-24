@@ -1,3 +1,3 @@
-# Welcome to O&M technologies
+# Welcome to O&M Developers
 
-This is my very first homeworksite this is a website of my fake business. The goal of this site is to have files, html, and css properply indented.
+This is my very first homework site that includes a website of my fake business. My approach is to show you that the struture of the website is well formatted for a beginners level. This includes following semantic structure of css and html elements.
